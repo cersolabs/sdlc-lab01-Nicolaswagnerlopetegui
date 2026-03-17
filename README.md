@@ -1,3 +1,4 @@
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-s1_zvqh)
 # SDLC-Lab01
 
@@ -39,23 +40,23 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
-| Análisis                      |             |
-| Diseño                        |             |
-| Codificación                  |             |
-| Prueba                        |             |
-| Puesta en marcha / Despliegue |             |
+| Análisis                      |Se identifica y definen los requerimientos del sistema|
+| Diseño                        |Se planifica como sera el sistema|
+| Codificación                  |Se escribe el codigo del programa|
+| Prueba                        |Se verifican errores y se valida que el sistema funcione correctamente|
+| Puesta en marcha / Despliegue |Se instala y utiliza el sistema en un entorno real|
 
 
 * Luego responda:
   * ¿En qué etapa se obtienen los requerimientos del sistema?
     
-    R:
+    R:en la etapa de analisis
   * ¿En qué etapa se construye el programa?
 
-    R:
+    R:En la etapa de codificación
   * ¿Cuál es el objetivo principal de las pruebas?
     
-    R:
+    R:Detectar errores y asegurar que el sistema funcione correctamente
 ### Actividad 3
 Ordene las siguientes etapas según corresponda  Diseño
 -al modelo lineal secuencial:
@@ -66,28 +67,34 @@ Ordene las siguientes etapas según corresponda  Diseño
 - Ingeniería de requerimientos
 ---
 R:
+1.Ingenieria de requerimientos
+2.Diseño
+3.codificacion
+4.Prueba
+5.Despliege
 
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R:
+    R:Lo que probablemente pase es que se arrastre el error por las otras etapas y sea mas quilombo detectarlo/corregirlo
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
-    R:
+    R:Porque es un modelo rigido que no es tan flexible
 ### Actividad 4
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     |                          |                        |
-| Incremental |                          |                        |
-| Prototipos  |                          |                        |
-| Espiral     |                          |                        |
-| RAD         |                          |                        |
+| Cascada     |Proceso lineal y secuencial|Cuando los requirimientos no cambian|
+| Incremental |Desarollo en partes o versiones|Cuando se requiere entregar el sistema por etapas|
+| Prototipos  |Creacion de modelos previos|Cuando los requerimientos estan claros|
+| Espiral     |Enfoque en analisis de riesgos|En proyectos complejos y con alto riesgo|
+| RAD         |Desarollo rapido|Cuando se necesita rapidez y el sistema es pequeño|
 
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
+R:El modelo espiral
   - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
-    
+R:El modelo de prototipos 
 ### Actividad 5 – Caso práctico
 Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 
@@ -101,19 +108,24 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 
 - ¿Qué modelo de desarrollo recomendaría? 
 
-  R: 
+  R:Probablemente el RAD.
 - Justifique su respuesta.
 
-  R:
+  R:cumple con las condiciones para resolver el tema de tiempo limitado aparte se especifica que es una empresa pequeña
 - ¿Qué etapas principales tendría el desarrollo?
 
   R:
+1.Analisis
+2.Diseño
+3.codificacion
+4.Pruebas
+5.Despliege
 
 ### Actividad 7 – Verdadero o Falso
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
 
-1. [ ] El modelo en cascada permite cambios constantes en los requerimientos.
-2. [ ] El modelo incremental entrega el sistema en varias versiones.
-3. [ ] Un prototipo se utiliza para comprender mejor los requerimientos.
-4. [ ] El modelo RAD busca reducir los tiempos de desarrollo.
-5. [ ] El modelo en espiral incorpora el análisis de riesgos.
+1. [FALSO] El modelo en cascada permite cambios constantes en los requerimientos.
+2. [VERDADERO] El modelo incremental entrega el sistema en varias versiones.
+3. [VERDADERO] Un prototipo se utiliza para comprender mejor los requerimientos.
+4. [VERDDERO] El modelo RAD busca reducir los tiempos de desarrollo.
+5. [VERDADERO] El modelo en espiral incorpora el análisis de riesgos.
