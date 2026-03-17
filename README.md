@@ -16,23 +16,23 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 1. ¿Por qué el desarrollo de software no puede realizarse simplemente comenzando a programar?
 
-   R:
+   R:Porque no es tan simple como eso, programar requiere de planificacion de antemano para saber como plantearse hacer el codigo de manera correcta y prolija y que no quede el codigo como un espagueti que se fue escrito en el momento.
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
-   R:
+   R:Significa que se hace una planificacion previa a la escritura del codigo, generalmente por etapas dependiendo de cual sea el objetivo/s a conseguir.
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 
-   R:
+   R: Permite organizar el trabajo y para que cuando se trabaje en equipo no haya tanto quilombo, por ejemplo suele pasar que un programador asume la continuacion de un proyecto que dejo otro programador pero al tener un plan de desarollo el programador actual puede saber por donde hiba encaminado el codigo y su flujo.
 
 4. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
 
-   R:
+   R:Se les critica que no son flexibles(al requerir de un plan y organización) y pueden tener dificultades al adaptarse a nuevos objetivos u imprevistos.
 
 5. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
-   R: 
+   R:Muchos usan ese metodo porque permiten flexibilidad y organización balanceados.
 
 
 ### Actividad 2
